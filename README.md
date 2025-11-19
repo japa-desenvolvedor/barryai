@@ -8,6 +8,9 @@
 
 BarryAI é um **chatbot inteligente** desenvolvido com foco em **usabilidade e inclusão digital**. Projetado especialmente para usuários que enfrentam barreiras no uso de tecnologias, BarryAI oferece uma interface simples, intuitiva e poderosa, com diferentes níveis de acesso conforme o plano do usuário.
 
+![texto alternativo]([https://link-da-imagem.png](https://lh3.googleusercontent.com/gg-dl/ABS2GSn6CBs4K3O1cDrgbKlRfi1nVKVHsJH7lOY6A0e22XiAibnw7lfeD0tMbusYx0535Tby8K0iQa8haaWJlNKbd2sk8qcajvRYWsL8_W4NMmN3pGyfmLo1swBERNh-QJrJXTIiW9e9UbDZ6BejVJcxvh9sqGLYWrxBKjpyL5rUFBd4NH2JMw=s1024-rj?authuser=2))
+
+
 ---
 
 ## 🧩 Problematização
